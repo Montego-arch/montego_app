@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include montego_app *.css
+recursive-include montego_app *.csv
+recursive-include montego_app *.html
+recursive-include montego_app *.ico
+recursive-include montego_app *.js
+recursive-include montego_app *.json
+recursive-include montego_app *.md
+recursive-include montego_app *.png
+recursive-include montego_app *.py
+recursive-include montego_app *.svg
+recursive-include montego_app *.txt
+recursive-exclude montego_app *.pyc
