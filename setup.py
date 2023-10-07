@@ -9,7 +9,7 @@ from montego_app import __version__ as version
 setup(
 	name="montego_app",
 	version=version,
-	description="it is a demo app",
+	description="It a developing app",
 	author="Montego-arch",
 	author_email="mmanuelmiles@gmail.com",
 	packages=find_packages(),

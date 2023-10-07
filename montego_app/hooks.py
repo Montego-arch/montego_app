@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "montego_app"
 app_title = "Montego App"
 app_publisher = "Montego-arch"
-app_description = "it is a demo app"
+app_description = "It a developing app"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "mmanuelmiles@gmail.com"

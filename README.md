@@ -1,6 +1,6 @@
 ## Montego App
 
-it is a demo app
+It a developing app
 
 #### License
 
